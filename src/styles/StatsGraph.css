@@ -1,0 +1,13 @@
+.stats-graph {
+}
+
+.stats-graph__header {
+  margin-left: 16px;
+}
+
+.stats-graph__item {
+  display: flex;
+  background-color: #f2f5eb;
+  padding: 16px 16px 16px 0px;
+  border-radius: 10px;
+}

@@ -1,0 +1,30 @@
+.activity-log {
+}
+
+.activity-log__header {
+  margin-left: 16px;
+}
+
+.activity-log__item {
+  display: flex;
+  background-color: #f2f5eb;
+  padding: 8px 16px 16px 16px;
+  border-radius: 10px;
+}
+
+.activity-log table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.activity-log td,
+th {
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+  padding: 12px 8px 12px 8px;
+}
+
+.activity-log tbody tr:hover {
+  background-color: #ebebeb;
+  cursor: pointer;
+}

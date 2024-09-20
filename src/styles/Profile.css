@@ -1,0 +1,32 @@
+.profile {
+  flex: 1;
+}
+
+.profile__header {
+  margin-left: 16px;
+}
+
+.profile__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #bcebef;
+  padding: 16px;
+  border-radius: 10px;
+}
+
+.profile__item img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.profile__item__name {
+  margin: 16px 0px 8px 0px;
+}
+
+.profile__item__biography {
+  text-align: center;
+  font-size: 15px;
+  color: #8c9387;
+}
